@@ -1,0 +1,24 @@
+{
+  "name": "Testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jestPractice.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L2oukmane/Testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L2oukmane/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/L2oukmane/Testing-practice#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
